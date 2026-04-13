@@ -36,4 +36,9 @@ export interface McpServer {
   description: string;
 }
 
-export type View = 'dashboard' | 'profiles' | 'session' | 'mcp';
+export type View = 'dashboard' | 'profiles' | 'session' | 'mcp' | 'create-image' | 'edit-image';
+
+export interface ViewState {
+  view: View;
+  editImageId?: string;
+}
