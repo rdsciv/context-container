@@ -1,3 +1,7 @@
+# Documentation
+
+Full documentation: [acme-3daf558c.mintlify.app](https://acme-3daf558c.mintlify.app/introduction)
+
 # Context Container
 
 A native macOS desktop app that eliminates the friction of setting up AI workspaces. Define your profile once, browse context image templates, and generate perfectly synthesized LLM payloads in one click.
@@ -99,11 +103,4 @@ All data persists as JSON files in `~/.context-container/`:
 | Research Analyst | Structured research and analysis | `user.role`, `user.expertise` |
 | DevOps Commander | Infrastructure and CI/CD | `user.role`, `framework.backend`, `database`, `deployment` |
 | Creative Director | Design thinking and copywriting | `user.role`, `user.style` |
-
-## Documentation
-
-Full documentation: [acme-3daf558c.mintlify.app](https://acme-3daf558c.mintlify.app/introduction)
-
-## License
-
-MIT
+(https://acme-3daf558c.mintlify.app/introduction)
